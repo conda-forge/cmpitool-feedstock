@@ -1,11 +1,11 @@
-About cmpitool
-==============
+About cmpitool-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/cmpitool-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/JanStreffing/cmpitool
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/cmpitool-feedstock/blob/main/LICENSE.txt)
 
 Summary: Climate Model Performance Indicies (CMPI) toolbox
 
