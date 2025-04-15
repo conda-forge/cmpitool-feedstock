@@ -1,13 +1,13 @@
 {% set name = "cmpitool" %}
-{% set version = "1.0.0" %}
+{% set version = "1.1.2" %}
 
 package:
   name: {{ name|lower }}
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/cmpitool-{{ version }}.tar.gz
-  sha256: ec7c0f1e2aebd0f3db108bcbbc016c3654f922c4814e0233b11436fd5b17e4e3
+  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/cmpitool-{{ version }}.tar.gz
+  sha256: 86882d030ff3ced5725b3ad746e37ba70fd4110fd87a9b0ecc8d5372681ecb3c
 
 build:
   noarch: python
